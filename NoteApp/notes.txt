@@ -1,0 +1,2 @@
+[32mThis file was created by Node.js![39m
+[32m[39m
