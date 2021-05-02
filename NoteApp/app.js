@@ -5,5 +5,6 @@
 
 const fs = require('fs');
 const chalk = require('chalk');
+const yargs = require('yargs');
 
 fs.writeFileSync('notes.txt', chalk.green('This file was created by Node.js!\n'));
